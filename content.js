@@ -1,6 +1,6 @@
 /* Update this file first: the page renders from these collections. */
 window.portfolioContent = {
-  profile: { name: 'Yezı Yuan' },
+  profile: { name: 'Yezı Yuan', summary: '正在寻找能把设计、技术与叙事连接起来的机会。', intent: '内容待添加', direction: '内容待添加', city: 'Shanghai / Remote', phone: '+86 138 0000 0000', email: 'hello@example.com' },
   experience: [
     { period: '2024 — NOW', role: 'Independent / Creative practice', place: 'Shanghai · Remote', description: '在设计、研究与数字体验之间搭建自己的工作方法。' },
     { period: '2022 — 2024', role: 'Experience designer', place: 'Your studio / Team', description: '参与从问题定义到原型落地的完整项目周期。' },
