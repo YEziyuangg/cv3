@@ -7,8 +7,8 @@ window.portfolioContent = {
     { period: '2020 — 2022', role: 'A curious beginning', place: 'School / City', description: '开始认真观察人、物和它们之间的关系。' }
   ],
   projects: [
-    { number: '01', type: 'DIGITAL EXPERIENCE', title: 'Project title one', description: '一个等待被填充的项目简介。', color: 'coral', hasVideo: true, link: '' },
-    { number: '02', type: 'VISUAL STORY', title: 'Project title two', description: '图片链接的位置已经预留。', color: 'yellow', hasVideo: false, link: '' },
-    { number: '03', type: 'RESEARCH / OTHER', title: 'Project title three', description: '把你的其他内容模块放在这里。', color: 'mint', hasVideo: true, link: '' }
+    { number: '01', type: 'DIGITAL EXPERIENCE', title: 'Project title one', description: '一个等待被填充的项目简介。', image: 'https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=1200&q=85', color: 'coral', hasVideo: true, link: '' },
+    { number: '02', type: 'VISUAL STORY', title: 'Project title two', description: '图片链接的位置已经预留。', image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1200&q=85', color: 'yellow', hasVideo: false, link: '' },
+    { number: '03', type: 'RESEARCH / OTHER', title: 'Project title three', description: '把你的其他内容模块放在这里。', image: 'https://images.unsplash.com/photo-1559028012-481c04fa702d?auto=format&fit=crop&w=1200&q=85', color: 'mint', hasVideo: true, link: '' }
   ]
 };
